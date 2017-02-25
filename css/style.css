@@ -1,0 +1,98 @@
+#navi{
+
+    background-color:red;
+}
+
+.nav-color{
+    text-decoration-color: #f9f9f9;
+}
+
+
+ html, body {
+     height: 100%;
+     margin: 0;
+     padding: 0;
+ }
+
+ .login-form{
+     margin-top:10px;
+     width:500px;
+ }
+
+ .margin-bottom
+ {
+     margin-bottom: 5px;
+ }
+input {
+    padding: 15px;
+    border-radius: 5px;
+    border-color: #122b40;
+    border-width: thin;
+    margin-bottom: 5px;
+
+}
+
+textarea{
+    padding: 15px;
+    border-radius: 5px;
+    border-color: #122b40;
+    border-width: thin;
+    margin-bottom: 5px;
+}
+
+input .lg{
+    height: 46px;
+
+    font-size: 18px;
+
+}
+.float-left{
+
+    float: left;
+}
+.font-size{
+    font-size: 20px;
+}
+
+.font_14{
+    font-size: 1px;
+}
+footer
+{
+
+    background-color: red;
+    height: 80px;
+    color: white;
+    width: 100%;
+    font-size: large;
+}
+.pd-left{
+    padding-left: 20px;
+}
+
+
+ul {
+    list-style-type: none;
+}
+
+.text_size{
+    font-size: small;
+}
+
+#myCarousel{
+    image-resolution: from-image;
+}
+
+.page-scroll a.btn-circle {
+    width: 40px;
+    height: 40px;
+    margin-top: 10px;
+    padding: 7px 0;
+    border: 2px solid #fff;
+    border-radius: 50%;
+    font-size: 20px;
+}
+
+#benefits{
+    background-image: url("images.jpg");
+}
